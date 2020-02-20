@@ -9,9 +9,6 @@
 
 
 ### Conferences
-
-Conferences
-
 - AAAI: Association for the Advancement of Artificial Intelligence
 - [ICLR](https://iclr.cc/): International Conference on Learning Representations
 - ICML: International Conference on Machine Learning
@@ -22,23 +19,23 @@ Conferences
 - IJCAI: International Joint Conferences on Artificial Intelligence
 - IEEE Robotics and Automation Society (RAS)
     -   AIM — IEEE/ASME International Conference on Advanced Intelligent Mechatronics
-    -   BioRob — IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics
-    -   CBS — IEEE International Conference on Cyborg and Bionic Systems
-    -   CYBER — IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems
-    -   HRI — ACM/IEEE International Conference on Human-Robot Interaction
-    -   ICAL — IEEE International Conference on Automation and Logistics
-    -   ICIA — IEEE International Conference on Information and Automation
-    -   ICMA — IEEE International Conference on Mechatronics and Automation
-    -   ICORR — IEEE International Conference on Rehabilitation Robotics
-    -   ICRA – IEEE International Conference on Robotics and Automation
-    -   IRC —  IEEE International Conference on Robotic Computing
+    -   BioRob — RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics
+    -   CBS — International Conference on Cyborg and Bionic Systems
+    -   CYBER — International Conference on Cyber Technology in Automation, Control, and Intelligent Systems
+    -   HRI — ACM/International Conference on Human-Robot Interaction
+    -   ICAL — International Conference on Automation and Logistics
+    -   ICIA — International Conference on Information and Automation
+    -   ICMA — International Conference on Mechatronics and Automation
+    -   ICORR — International Conference on Rehabilitation Robotics
+    -   ICRA – International Conference on Robotics and Automation
+    -   IRC —  International Conference on Robotic Computing
     -   IROS — IEEE/RSJ International Conference on Intelligent Robots and Systems
-    -   ISR — IEEE International Conference on Intelligence and Safety for Robotics
-    -   MFI — IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems
+    -   ISR — International Conference on Intelligence and Safety for Robotics
+    -   MFI — International Conference on Multisensor Fusion and Integration for Intelligent Systems
     -   MHS — International Symposium on Micro-NanoMechatronics and Human Science
-    -   RCAR — IEEE International Conference on Real-time Computing and Robotics
-    -   ROBIO — IEEE International Conference on Robotics and Biomimetics
-    -   RO-MAN — IEEE International Symposium on Robot and Human Interactive Communication
+    -   RCAR — International Conference on Real-time Computing and Robotics
+    -   ROBIO — International Conference on Robotics and Biomimetics
+    -   RO-MAN — International Symposium on Robot and Human Interactive Communication
     -   SII — IEEE/SICE International Symposium on System Integration
-    -   WHC — IEEE World Haptics Conference
-    -   CASE – IEEE International Conference on Automation Science and Engineering
+    -   WHC — World Haptics Conference
+    -   CASE – International Conference on Automation Science and Engineering
