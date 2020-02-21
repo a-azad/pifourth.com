@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[home](./) | [ML](./ml.html) | [RL](./ml.html) | [SQL](./sql.html) | [Coding](./coding.html) | [Stats](./stats.html) | [Robotics](./robotics.html)
 
 # Header 1
 
