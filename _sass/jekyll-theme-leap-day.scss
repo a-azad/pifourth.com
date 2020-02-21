@@ -230,14 +230,14 @@ header {
   // }
 
   .fork {
-    position:float;
+    position:fixed;
     left:50%;
     margin-left:-325px;
     margin-top: 6px;
     padding: 10px 12px;
 
     span {
-      float:left;
+      float:right;
       line-height:52px;
       font-size:90%;
       color:#9d7f0d;
