@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Learning Links
 
 - Georgia Tech RL Course ([video](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))
