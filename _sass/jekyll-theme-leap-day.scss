@@ -218,15 +218,32 @@ header {
     }
   }
 
+  // .fork {
+  //   position:fixed;
+  //   left:50%;
+  //   margin-left:-325px;
+  //   padding: 10px 12px;
+  //   margin-top: 6px;
+  //   line-height:14px;
+  //   font-size:14px;
+  //   background-color: #FFE788;
+  // }
+
   .fork {
-    position:right;
+    position:fixed;
     left:50%;
     margin-left:-325px;
-    padding: 10px 12px;
     margin-top: 6px;
-    line-height:14px;
-    font-size:14px;
-    background-color: #FFE788;
+    padding: 10px 12px;
+
+    span {
+      float:left;
+      line-height:52px;
+      font-size:90%;
+      color:#9d7f0d;
+      text-transform:uppercase;
+      text-shadow:rgba(#fff, 0.2) 0 1px 0;
+    }
   }
 
   .downloads {
