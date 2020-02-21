@@ -230,9 +230,9 @@ header {
   }
 
   .mymenu {
-    float: left;
+    position:fixed;
     left:50%;
-    margin:0 0 0 150px;
+    margin-left:-325px;
 
     span {
       float:left;
