@@ -231,13 +231,12 @@ header {
 
   .fork {
     position:fixed;
-    //left:50%;
-    left:325px;
-    //margin-left:-325px;
-    // margin-top: 6px;
-    // margin-right:0;
-    // margin-bottom: 0;
-    // padding: 10px 12px;
+    left:50%;
+    margin-left:-325px;
+    margin-top: 6px;
+    margin-right:0;
+    margin-bottom: 0;
+    padding: 10px 12px;
 
     span {
       float:left;
