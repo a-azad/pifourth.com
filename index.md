@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| [home](./) | [ML](./ml.html) | [RL](./ml.html) | [SQL](./sql.html) | [Coding](./coding.html) | [Stats](./stats.html) | [Robotics](./robotics.html) |
+> | [home](./) | [ML](./ml.html) | [RL](./ml.html) | [SQL](./sql.html) | [Coding](./coding.html) | [Stats](./stats.html) | [Robotics](./robotics.html) |
 
 # Header 1
 
