@@ -1,21 +1,8 @@
 ---
 layout: default
 ---
-
-
-<div class="nav">
-      <ul>
-        <li class="home"><a href="#">Home</a></li>
-        <li class="tutorials"><a class="active" href="#">Tutorials</a></li>
-        <li class="about"><a href="#">About</a></li>
-        <li class="news"><a href="#">Newsletter</a></li>
-        <li class="contact"><a href="#">Contact</a></li>
-      </ul>
-</div>
-
-
-
 [home](./)-[ML](./ml.html)-[RL](./ml.html)-[SQL](./sql.html)-[Coding](./coding.html)-[Stats](./stats.html)-[Robotics](./robotics.html)
+* * *
 
 # Header 1
 
