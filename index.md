@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-[home](./) ● [ML](./ml.html) ● [RL](./ml.html) ● [SQL](./sql.html) ● [Coding](./coding.html) ● [Stats](./stats.html) ● [Robotics](./robotics.html)
+[Home](./) ● [ML](./ml.html) ● [RL](./ml.html) ● [SQL](./sql.html) ● [Coding](./coding.html) ● [Stats](./stats.html) ● [Robotics](./robotics.html)
 * * *
+
+Coming Soon!
+
 
 # Header 1
 
