@@ -2,8 +2,6 @@
 layout: default
 ---
 * * *
-
-
 ### General ML Cheat Sheets
 - Amidi's
     - [Shervin](https://stanford.edu/~shervine/), 
