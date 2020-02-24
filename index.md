@@ -5,6 +5,17 @@ layout: default
 ### Linux
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
 
+### Stats
+- []()
+
+### SQL 
+- []()
+
+### Public Data
+- []()
+
+
+
 ### Conferencs
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
 - [ICLR](https://iclr.cc/): International Conference on Learning Representations
