@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-> Machine Learning
+* * *
+
 
 ### General ML Cheat Sheets
 - Amidi's
