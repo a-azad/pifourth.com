@@ -160,8 +160,8 @@ header {
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  height:100px;
-  // min-height: 76px;
+  // height:100px;
+  min-height: 76px;
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -188,7 +188,7 @@ header {
   position: fixed;
   left:0;
   right:0;
-  height: 50px;
+  height: 20px;
   top: 115px;
   margin-right:-382px;
 
