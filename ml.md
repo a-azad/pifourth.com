@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-[Home](./) ● [ML](./ml.html) ● [RL](./ml.html) ● [SQL](./sql.html) ● [Coding](./coding.html) ● [Stats](./stats.html) ● [Robotics](./robotics.html)
-* * *
+Coming Soon!
 
 - https://stanford.edu/~shervine/
 - https://www.mit.edu/~amidi/
