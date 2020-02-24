@@ -2,7 +2,7 @@
 layout: default
 ---
 * * *
-#### Cheat Sheets
+### Cheat Sheets
 - Amidi's
     - [Shervin](https://stanford.edu/~shervine/)
     - [Afshin](https://www.mit.edu/~amidi/)
