@@ -2,6 +2,7 @@
 layout: default
 ---
 * * *
+# Machine Learning
 ### General ML Cheat Sheets
 - Amidi's
     - [Shervin](https://stanford.edu/~shervine/), 
