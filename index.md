@@ -6,7 +6,6 @@ __Home Page__
 ### Useful Links
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
 
-
 ### Conferencs
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
 - [ICLR](https://iclr.cc/): International Conference on Learning Representations
