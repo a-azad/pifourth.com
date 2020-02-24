@@ -11,12 +11,12 @@ layout: default
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
 - [ICLR](https://iclr.cc/): International Conference on Learning Representations
 - [AAAI](http://www.aaai.org/): Association for the Advancement of Artificial Intelligence
-- [ACL](): Conference of the Association for Computational Linguistics
+- ACL: Conference of the Association for Computational Linguistics
 - [ICML](https://icml.cc/): International Conference on Machine Learning
 - [RSS](https://roboticsconference.org/): Robotics: Science and Systems
-- [CVPR](): Conference on Computer Vision and Pattern Recognitio
+- CVPR: Conference on Computer Vision and Pattern Recognitio
 - [IJCAI](https://www.ijcai.org/): International Joint Conferences on Artificial Intelligence
-- [ECML](): The European Conference on Machine Learning
+- ECML: The European Conference on Machine Learning
 
 ### Journals
 - JAIR: Journal of Artificial Intelligence Research
