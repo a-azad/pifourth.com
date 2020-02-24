@@ -2,7 +2,6 @@
 layout: default
 ---
 * * *
-Coming Soon!
 ### Learn Robotics
 - General Advice: [Quora](https://www.quora.com/What-are-the-best-online-courses-to-learn-robotics)
 
