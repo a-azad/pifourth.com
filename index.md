@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-__Home Page__
-
 ### Useful Links
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
 
