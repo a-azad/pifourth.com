@@ -2,8 +2,6 @@
 layout: default
 ---
 * * *
-Coming Soon!
-
 ### Learn RL
 - Georgia Tech RL Course ([youtube](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))
 - UCL Course on RL by David Silver ([web](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html))
