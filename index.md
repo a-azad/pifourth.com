@@ -3,18 +3,54 @@ layout: default
 ---
 <p style="text-align: center; color:#5c58589f; margin =0">S T U F F</p>
 * * *
+
 ### Linux
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
+- [Popular Linx Books](http://www.sobell.com/)
+- [Bash Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
 
-### Stats
+### Frontend
+- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+### SQL Practice
 - []()
 
-### SQL 
-- []()
 
-### Data
-- []()
+### R
+- [RPubs](https://rpubs.com/)
+- [Graph Gallery](https://www.r-graph-gallery.com/)
+- [ShinyApps](https://www.shinyapps.io/)
+- [R for Data Science](https://r4ds.had.co.nz/index.html) 
 
+
+
+### Project Management
+- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [Scrum Training Series](http://scrumtrainingseries.com/)
+- [Scrum Guide](https://www.scrumguides.org/index.html)
+- [Scrum Master Checklist](https://scrummasterchecklist.org/)
+- [MBA Wiki A](http://www.netmba.com/)
+- [MBA Wiki B](http://www.quickmba.com/)
+- [Accounting Wiki](https://www.accountingcoach.com/)
+
+### News
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 ### Conferencs
