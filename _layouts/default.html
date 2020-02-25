@@ -18,6 +18,10 @@
   <body>
 
     <header>
+
+
+      <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>      
+      <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p> 
       <div style="color:chocolate;
                   background-color: rgb(250, 234, 215); 
                   width:100%; 
@@ -35,8 +39,7 @@
         |  <a href="./robotics.html">Robotics</a>
       </div>
 
-      <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>      
-      <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p> 
+
     </header>
     
     <div id="banner">
