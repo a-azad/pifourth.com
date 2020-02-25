@@ -20,23 +20,27 @@
 
       <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>      
       <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p> 
-      <div style="color:#fcdb5a;
+      <div style="color:#ff8f26;
                   background: #ffcc00;
                   border: 1px solid #f0b500;
                   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
                   border-radius: 0px 2px 2px 0px;
                   width:100%; 
-                  height: 20px; 
+                  height: 25px; 
                   text-align: center;
                   vertical-align: center;
                   margin: 15px;
+                  margin-top: 15px;
+                  margin-left: 0;
+                  margin-right: 0;
+                  margin-bottom: 10;
                   ">
         <a href="./" style="font-weight: bold">Stuff</a>
-        |  <a href="./ml.html" style="color:rgb(211, 106, 31); font-weight: bold">ML</a>
-        |  <a href="./dl.html" style="color:rgb(236, 232, 229); font-weight: bold">DL</a>
-        |  <a href="./rl.html" style="color:rgb(48, 21, 2); font-weight: bold">RL</a>
-        |  <a href="./coding.html" style="color:rgb(0, 0, 0); font-weight: bold">Coding</a>
-        |  <a href="./robotics.html" style="color:rgb(1, 243, 13)">Robotics</a>
+        |  <a href="./ml.html" style="font-weight: bold">ML</a>
+        |  <a href="./dl.html" style="font-weight: bold">DL</a>
+        |  <a href="./rl.html" style="font-weight: bold">RL</a>
+        |  <a href="./coding.html" style="font-weight: bold">Coding</a>
+        |  <a href="./robotics.html" style="font-weight: bold">Robotics</a>
       </div>
 
 
@@ -76,26 +80,7 @@
         <ul></ul>
       </nav>
       <section>
-
-        <div style="color:chocolate;
-                    background-color: rgb(250, 234, 215); 
-                    width:100%; 
-                    height: 20px; 
-                    text-align: center;
-                    vertical-align: center;
-                    margin-bottom: 16px;
-                    font-weight: bold;
-                    ">
-          <a href="./">Stuff</a>
-            |  <a href="./ml.html">ML</a>
-            |  <a href="./dl.html">DL</a>
-            |  <a href="./rl.html">RL</a>
-            |  <a href="./coding.html">Coding</a>
-            |  <a href="./robotics.html">Robotics</a>
-        </div>
-
         {{ content }}
-
       </section>
       <footer>
         {% if site.github.is_project_page %}
