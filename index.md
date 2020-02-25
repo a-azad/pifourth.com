@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p style="text-align: center; color:#5c58589f; margin =0">m y S T U F F</p>
+<p style="text-align: center; color:#5c58589f; margin =0">S T U F F</p>
 * * *
 ### Linux
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
