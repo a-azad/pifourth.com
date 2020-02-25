@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<p style="text-align: center; color:#5c58589f; margin =0">R E I N F O R C E M E N T  L E A R N I N G</p>
 * * *
 ### Learn RL
 - Georgia Tech RL Course ([youtube](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))

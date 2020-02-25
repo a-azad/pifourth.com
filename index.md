@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<p style="text-align: center; color:#5c58589f; margin =0">H A N D Y  L I N K S</p>
 * * *
 ### Linux
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
