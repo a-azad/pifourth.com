@@ -9,9 +9,6 @@ layout: default
 - [Popular Linx Books](http://www.sobell.com/)
 - [Bash Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
 
-### Frontend
-- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-
 ### SQL Practice
 - [SQLZoo](https://sqlzoo.net/)
 - [SQLCourse](http://www.sqlcourse2.com/)
@@ -32,10 +29,6 @@ layout: default
 - [MBA Wiki A](http://www.netmba.com/)
 - [MBA Wiki B](http://www.quickmba.com/)
 - [Accounting Wiki](https://www.accountingcoach.com/)
-
-### Visualize
-- Graph: [Guphi](https://gephi.org/)
-- Color [Brewer](http://colorbrewer2.org/)
 
 ### Stats
 - Stat Trek ([book](https://stattrek.com/))

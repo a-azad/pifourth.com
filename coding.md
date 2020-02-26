@@ -19,6 +19,12 @@ layout: default
 - [format](https://pyformat.info/)
 - [strftime directives](https://strftime.org/)
 
+### Visualize
+- Graph: [Guphi](https://gephi.org/)
+- Color [Brewer](http://colorbrewer2.org/)
+
+### Frontend
+- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ### Refactoring
 - [PEP8 Python Style](https://www.python.org/dev/peps/pep-0008/)
@@ -36,7 +42,6 @@ layout: default
 
 ### System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
 
 ### Algorithm & Data Structure
 - [Python for Algorithms](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
