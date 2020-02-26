@@ -36,31 +36,14 @@ layout: default
 ### Visualize
 - Graph: [Guphi](https://gephi.org/)
 - Color [Brewer](http://colorbrewer2.org/)
-- 
 
 ### Stats
 - Stat Trek ([book](https://stattrek.com/))
 - Learning Statistics on Youtube ([link](https://www.r-bloggers.com/learning-statistics-on-youtube/))
 - Hypothesis Testing ([youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAWG_uiz9pQFkZJC8-pO-4H))
 - Intobooks ([link](https://www.openintro.org/))
-
-
-
-
-### News
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
+- Probability ([onlineBook](http://theanalysisofdata.com/probability/))
+- A/B Testing ([guideline](https://hookedondata.org/guidelines-for-ab-testing/))
 
 ### Conferencs
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
