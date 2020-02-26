@@ -7,10 +7,22 @@ layout: default
 ### Computing Science
 - [Basics](https://medium.com/basecs)
 
+### Regual Expression
+- [Online Regex Tester](https://regex101.com/)
+- 
+
 ### BigO Notation
 - [Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Blog Post](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
+- [strftime directives](https://strftime.org/)
 - []()
+- []()
+- []()
+- []()
+
+### Python
+- [Google's Python Class](https://developers.google.com/edu/python/)
+- [format](https://pyformat.info/)
 - []()
 - []()
 - []()

@@ -23,3 +23,15 @@ layout: default
 
 - **Resources**
     - "Awsome NLP" Books etc. ([github](https://github.com/keon/awesome-nlp))
+
+
+### Computer Vision
+- **Lectures**
+    - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
+
+
+### Time Series
+- Forecasting: Principles and Practice([book](https://otexts.com/fpp2/))
+- Classical Time Series Forecasting Methods in Python ([blogPost](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/))
+- Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
+- Matrix Profile ([link](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html))

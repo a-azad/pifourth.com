@@ -24,8 +24,6 @@ layout: default
 - [ShinyApps](https://www.shinyapps.io/)
 - [R for Data Science](https://r4ds.had.co.nz/index.html) 
 
-
-
 ### Project Management
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - [Scrum Training Series](http://scrumtrainingseries.com/)
@@ -34,6 +32,20 @@ layout: default
 - [MBA Wiki A](http://www.netmba.com/)
 - [MBA Wiki B](http://www.quickmba.com/)
 - [Accounting Wiki](https://www.accountingcoach.com/)
+
+### Visualize
+- Graph: [Guphi](https://gephi.org/)
+- Color [Brewer](http://colorbrewer2.org/)
+- 
+
+### Stats
+- Stat Trek ([book](https://stattrek.com/))
+- Learning Statistics on Youtube ([link](https://www.r-bloggers.com/learning-statistics-on-youtube/))
+- Hypothesis Testing ([youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAWG_uiz9pQFkZJC8-pO-4H))
+- Intobooks ([link](https://www.openintro.org/))
+
+
+
 
 ### News
 - []()
