@@ -4,7 +4,7 @@ layout: default
 <p style="text-align: center; color:#5c58589f; margin =0">M A C H I N E . L E A R N I N G</p>
 * * *
 
-### **Classic ML**
+### **Machine Learning**
 - **Lectures**
     - Stanford CS229: Machine Learning ([web](http://cs229.stanford.edu/))
     - Andrew Ng's ML course material ([link](http://www.holehouse.org/mlclass/))
@@ -25,7 +25,7 @@ layout: default
 - **Lectures**
     - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
 
-### **Natural Language Processing (NLP)**
+### **Natural Language Processing**
 - **Lectures**
     - Stanford CS224N: Natural Language Processing with Deep Learning ([web](https://web.stanford.edu/class/cs224n/)), ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
 
