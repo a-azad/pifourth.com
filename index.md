@@ -13,10 +13,12 @@ layout: default
 - [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ### SQL Practice
-- []()
+- [SQLZoo](https://sqlzoo.net/)
+- [SQLCourse](http://www.sqlcourse2.com/)
+- [Mode](https://mode.com/sql-tutorial/introduction-to-sql/)
+- Visualize Join(s) ([1](https://joins.spathon.com/)), ([2](http://4.bp.blogspot.com/-_HsHikmChBI/VmQGJjLKgyI/AAAAAAAAEPw/JaLnV0bsbEo/s1600/sql%2Bjoins%2Bguide%2Band%2Bsyntax.jpg)), ([3](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins))
 
-
-### R
+### R Programing
 - [RPubs](https://rpubs.com/)
 - [Graph Gallery](https://www.r-graph-gallery.com/)
 - [ShinyApps](https://www.shinyapps.io/)
@@ -45,12 +47,7 @@ layout: default
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 
 ### Conferencs
