@@ -18,6 +18,8 @@ layout: default
 
 ### **Deep Learning**
 - **Lectures**
+    - Lex Fridman at MIT ([web](https://deeplearning.mit.edu/)), ([youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf))
+
 - **Cheetsheets**
 - **Resources**
 
@@ -25,15 +27,15 @@ layout: default
 - **Lectures**
     - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
 
+### **Time Series**
+- Forecasting: Principles and Practice([book](https://otexts.com/fpp2/))
+- Classical Time Series Forecasting Methods in Python ([blogPost](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/))
+- Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
+- Matrix Profile ([link](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html))
+
 ### **Natural Language Processing**
 - **Lectures**
     - Stanford CS224N: Natural Language Processing with Deep Learning ([web](https://web.stanford.edu/class/cs224n/)), ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
 
 - **Resources**
     - "Awsome" NLP Books etc. ([github](https://github.com/keon/awesome-nlp))
-
-### **Time Series**
-- Forecasting: Principles and Practice([book](https://otexts.com/fpp2/))
-- Classical Time Series Forecasting Methods in Python ([blogPost](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/))
-- Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
-- Matrix Profile ([link](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html))
