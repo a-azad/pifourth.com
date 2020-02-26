@@ -20,6 +20,5 @@ layout: default
 
 ### Dig Deeper
 - https://github.com/dennybritz/reinforcement-learning/blob/master/README.md#overview
-- http://www.ee.surrey.ac.uk/Teaching/Unix/
 - https://github.com/aikorea/awesome-rl
 - https://github.com/ShangtongZhang/DeepRL
