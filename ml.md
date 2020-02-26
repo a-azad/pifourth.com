@@ -4,7 +4,7 @@ layout: default
 <p style="text-align: center; color:#5c58589f; margin =0">M A C H I N E . L E A R N I N G</p>
 * * *
 
-### Classic ML
+### **Classic ML**
 - **Lectures**
     - Stanford CS229: Machine Learning ([web](http://cs229.stanford.edu/))
     - Andrew Ng's ML course material ([link](http://www.holehouse.org/mlclass/))
@@ -16,22 +16,23 @@ layout: default
     - The Elements of Statistical Learning ([book](https://web.stanford.edu/~hastie/ElemStatLearn/))
     - "Awsome" Machine Learning Books etc. ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
-### Deep Learning
+### **Deep Learning**
+- **Lectures**
+- **Cheetsheets**
+- **Resources**
 
-
-
-### Computer Vision
+### **Computer Vision**
 - **Lectures**
     - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
 
-### NLP
+### **Natural Language Processing (NLP)**
 - **Lectures**
     - Stanford CS224N: Natural Language Processing with Deep Learning ([web](https://web.stanford.edu/class/cs224n/)), ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
 
 - **Resources**
     - "Awsome" NLP Books etc. ([github](https://github.com/keon/awesome-nlp))
 
-### Time Series
+### **Time Series**
 - Forecasting: Principles and Practice([book](https://otexts.com/fpp2/))
 - Classical Time Series Forecasting Methods in Python ([blogPost](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/))
 - Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
