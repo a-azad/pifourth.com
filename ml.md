@@ -14,6 +14,7 @@ layout: default
 - **Resources**
     - An Introduction to Statistical Learning ([book](http://faculty.marshall.usc.edu/gareth-james/)), ([video](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)), ([youtube](https://www.youtube.com/channel/UC4OWDcPB1peiBXDfCSZ3h-w)), ([solutions](https://github.com/asadoughi/stat-learning))
     - The Elements of Statistical Learning ([book](https://web.stanford.edu/~hastie/ElemStatLearn/))
+    - Tom Mitchel's book: [Machine Learning](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Mitchell-onlinebook.pdf)
     - "Awsome" Machine Learning Books etc. ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
 ### **Deep Learning**
@@ -22,6 +23,8 @@ layout: default
 
 - **Cheetsheets**
 - **Resources**
+    - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
+
 
 ### **Computer Vision**
 - **Lectures**
