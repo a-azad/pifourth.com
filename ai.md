@@ -13,8 +13,10 @@ layout: default
 
 
 ### Resources
-- Artificial Intelligence by Poole and Mckworth ([book](https://artint.info/2e/html/ArtInt2e.html))
-- Sutton's Webpage ([link](http://incompleteideas.net/))
+- Artificial Intelligence by Poole and Mackworth ([book](https://artint.info/2e/html/ArtInt2e.html))
+- Richard Sutton
+    - Webpage ([link](http://incompleteideas.net/))
+    - Introduction to RL ([book](http://incompleteideas.net/book/the-book.html)), ([solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)), ([solutions](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction))
 - OpenAI Spinning Up ([web](https://spinningup.openai.com))
 
 
