@@ -26,6 +26,7 @@ layout: default
 ### **Computer Vision**
 - **Lectures**
     - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
+    
 
 ### **Time Series**
 - Forecasting: Principles and Practice ([book](https://otexts.com/fpp2/))
