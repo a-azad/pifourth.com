@@ -37,6 +37,9 @@ layout: default
 - Intobooks ([link](https://www.openintro.org/))
 - Probability ([onlineBook](http://theanalysisofdata.com/probability/))
 - A/B Testing ([guideline](https://hookedondata.org/guidelines-for-ab-testing/))
+- Papers
+  - Statistical Modeling: The Two Cultures ([pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf))
+  - No Free Lunch Theorems for Optimization ([pdf](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf))
 
 ### Conferencs
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
@@ -74,8 +77,11 @@ layout: default
 ### Journals
 - JAIR: Journal of Artificial Intelligence Research
 
-
-
+### Journals
+- Open-Access Archive by Connell ([arxiv.org](https://arxiv.org/)) or ([arxiv-sanity](http://www.arxiv-sanity.com/))
+- Find peer-reviewed research ([semanticscholar](https://www.semanticscholar.org/))
+- Fair and useful benchmarks for ML ([MLPerf](https://mlperf.org/))
+- 
 
 
 
