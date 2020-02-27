@@ -77,11 +77,10 @@ layout: default
 ### Journals
 - JAIR: Journal of Artificial Intelligence Research
 
-### Journals
+### Open Access Publications
 - Open-Access Archive by Connell ([arxiv.org](https://arxiv.org/)) or ([arxiv-sanity](http://www.arxiv-sanity.com/))
 - Find peer-reviewed research ([semanticscholar](https://www.semanticscholar.org/))
 - Fair and useful benchmarks for ML ([MLPerf](https://mlperf.org/))
-- 
 
 
 
