@@ -4,23 +4,6 @@ layout: default
 <p style="text-align: center; color:#5c58589f; margin =0">S T U F F</p>
 * * *
 
-### Linux
-- [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
-- [Popular Linx Books](http://www.sobell.com/)
-- [Bash Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
-
-### SQL Practice
-- [SQLZoo](https://sqlzoo.net/)
-- [SQLCourse](http://www.sqlcourse2.com/)
-- [Mode](https://mode.com/sql-tutorial/introduction-to-sql/)
-- Visualize Join(s) ([1](https://joins.spathon.com/)), ([2](http://4.bp.blogspot.com/-_HsHikmChBI/VmQGJjLKgyI/AAAAAAAAEPw/JaLnV0bsbEo/s1600/sql%2Bjoins%2Bguide%2Band%2Bsyntax.jpg)), ([3](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins))
-
-### R Programing
-- [RPubs](https://rpubs.com/)
-- [Graph Gallery](https://www.r-graph-gallery.com/)
-- [ShinyApps](https://www.shinyapps.io/)
-- [R for Data Science](https://r4ds.had.co.nz/index.html) 
-
 ### Project Management
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - [Scrum Training Series](http://scrumtrainingseries.com/)
@@ -29,17 +12,6 @@ layout: default
 - [MBA Wiki A](http://www.netmba.com/)
 - [MBA Wiki B](http://www.quickmba.com/)
 - [Accounting Wiki](https://www.accountingcoach.com/)
-
-### Stats
-- Stat Trek ([book](https://stattrek.com/))
-- Learning Statistics on Youtube ([link](https://www.r-bloggers.com/learning-statistics-on-youtube/))
-- Hypothesis Testing ([youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAWG_uiz9pQFkZJC8-pO-4H))
-- Intobooks ([link](https://www.openintro.org/))
-- Probability ([onlineBook](http://theanalysisofdata.com/probability/))
-- A/B Testing ([guideline](https://hookedondata.org/guidelines-for-ab-testing/))
-- Papers
-  - Statistical Modeling: The Two Cultures ([pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf))
-  - No Free Lunch Theorems for Optimization ([pdf](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf))
 
 ### Conferencs
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
@@ -66,6 +38,32 @@ layout: default
 - Find peer-reviewed research ([semanticscholar](https://www.semanticscholar.org/))
 - Fair and useful benchmarks for ML ([MLPerf](https://mlperf.org/))
 
+### Linux
+- [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
+- [Popular Linx Books](http://www.sobell.com/)
+- [Bash Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
 
+### SQL Practice
+- [SQLZoo](https://sqlzoo.net/)
+- [SQLCourse](http://www.sqlcourse2.com/)
+- [Mode](https://mode.com/sql-tutorial/introduction-to-sql/)
+- Visualize Join(s) ([1](https://joins.spathon.com/)), ([2](http://4.bp.blogspot.com/-_HsHikmChBI/VmQGJjLKgyI/AAAAAAAAEPw/JaLnV0bsbEo/s1600/sql%2Bjoins%2Bguide%2Band%2Bsyntax.jpg)), ([3](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins))
+
+### R Programing
+- [RPubs](https://rpubs.com/)
+- [Graph Gallery](https://www.r-graph-gallery.com/)
+- [ShinyApps](https://www.shinyapps.io/)
+- [R for Data Science](https://r4ds.had.co.nz/index.html) 
+
+### Stats
+- Stat Trek ([book](https://stattrek.com/))
+- Learning Statistics on Youtube ([link](https://www.r-bloggers.com/learning-statistics-on-youtube/))
+- Hypothesis Testing ([youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAWG_uiz9pQFkZJC8-pO-4H))
+- Intobooks ([link](https://www.openintro.org/))
+- Probability ([onlineBook](http://theanalysisofdata.com/probability/))
+- A/B Testing ([guideline](https://hookedondata.org/guidelines-for-ab-testing/))
+- Papers
+  - Statistical Modeling: The Two Cultures ([pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf))
+  - No Free Lunch Theorems for Optimization ([pdf](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf))
 
 
