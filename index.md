@@ -52,28 +52,11 @@ layout: default
 - [IJCAI](https://www.ijcai.org/): International Joint Conferences on Artificial Intelligence
 - [CoRL](https://www.robot-learning.org/): Conference on Robot Learning
 - ECML: The European Conference on Machine Learning
-- **IEEE Robotics & Automation Society (RAS)**
-  - AIM — Advanced Intelligent Mechatronics
-  - BioRob — Biomedical Robotics and Biomechatronics
-  - CBS — Cyborg and Bionic Systems
-  - CYBER — Cyber Technology
-  - HRI — Human-Robot Interaction
-  - ICAL — International Conference on Automation and Logistics
-  - ICIA — International Conference on Information and Automation
-  - ICMA — International Conference on Mechatronics and Automation
-  - ICORR — International Conference on Rehabilitation Robotics
-  - **ICRA – International Conference on Robotics and Automation**
-  - **IRC —  International Conference on Robotic Computing**
-  - **IROS — Intelligent Robots and Systems**
-  - ISR — Intelligence and Safety for Robotics
-  - MFI — Multisensor Fusion and Integration for Intelligent Systems
-  - MHS — Micro-NanoMechatronics and Human Science
-  - RCAR — Real-time Computing and Robotics
-  - ROBIO — Robotics and Biomimetics
-  - RO-MAN — Robot and Human Interactive Communication
-  - SII — Symposium on System Integration
-  - WHC — World Haptics Conference
-  - CASE – Conference on Automation Science and Engineering
+- **IEEE Robotics & Automation Society (RAS)** 
+  - ICRA – International Conference on Robotics and Automation
+  - IRC —  International Conference on Robotic Computing
+  - IROS — Intelligent Robots and Systems
+  - [More ...](https://www.ieee-ras.org/conferences-workshops)
 
 ### Journals
 - JAIR: Journal of Artificial Intelligence Research
