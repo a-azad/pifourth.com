@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p style="text-align: center; color:#5c58589f; margin =0">S T U F F</p>
+<p style="text-align: center; color:#5c58589f; margin =0">E T . C E T E R A</p>
 * * *
 
 ### Conferencs
