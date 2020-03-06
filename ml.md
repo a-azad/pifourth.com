@@ -19,10 +19,13 @@ layout: default
 
 ### **Deep Learning**
 - **Lectures**
-    - Ng|Katanforoosh ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)), ([web](https://cs230.stanford.edu/))
+    - Ng/Katanforoosh ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)), ([web](https://cs230.stanford.edu/))
     - Lex Fridman at MIT ([web](https://deeplearning.mit.edu/)), ([youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf))
+    - Ng/Deep Learning Specialization ([coursera](https://www.coursera.org/specializations/deep-learning)), ([github](https://github.com/limberc/deeplearning.ai))
 
 - **Cheetsheets**
+    - Ng/Deep Learning Specialization ([Tess Ferrandez cheatsheets](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng))
+    
 - **Resources**
     - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
 
