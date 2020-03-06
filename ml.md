@@ -19,6 +19,7 @@ layout: default
 
 ### **Deep Learning**
 - **Lectures**
+    - Ng|Katanforoosh ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)), ([web](https://cs230.stanford.edu/))
     - Lex Fridman at MIT ([web](https://deeplearning.mit.edu/)), ([youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf))
 
 - **Cheetsheets**
