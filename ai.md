@@ -14,7 +14,7 @@ layout: default
 - Deep RL Bootcamp 2017 at Berkley ([web](https://sites.google.com/view/deep-rl-bootcamp/))
 
 
-### Resources
+### Books & Material
 - Artificial Intelligence by Poole and Mackworth ([book](https://artint.info/2e/html/ArtInt2e.html))
 - Richard Sutton
     - Webpage ([link](http://incompleteideas.net/))
@@ -23,8 +23,7 @@ layout: default
 - OpenAI Spinning Up ([web](https://spinningup.openai.com))
 
 
-
-### General Resources on Github
+### Resources on Github
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning/blob/master/README.md#overview)
 - [https://github.com/aikorea/awesome-rl](awesome-rl)
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL)
