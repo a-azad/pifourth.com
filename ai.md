@@ -14,8 +14,6 @@ layout: default
 - Deep RL Bootcamp 2017 at Berkley ([web](https://sites.google.com/view/deep-rl-bootcamp/))
 
 
-
-
 ### Resources
 - Artificial Intelligence by Poole and Mackworth ([book](https://artint.info/2e/html/ArtInt2e.html))
 - Richard Sutton
@@ -30,3 +28,6 @@ layout: default
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning/blob/master/README.md#overview)
 - [https://github.com/aikorea/awesome-rl](awesome-rl)
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL)
+
+### Ideas
+- Deep Reinforcement Learning Doesn't Work Yet! ([blogPost](https://www.alexirpan.com/2018/02/14/rl-hard.html))

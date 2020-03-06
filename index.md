@@ -50,6 +50,7 @@ layout: default
 - [RSS](https://roboticsconference.org/): Robotics: Science and Systems
 - CVPR: Conference on Computer Vision and Pattern Recognitio
 - [IJCAI](https://www.ijcai.org/): International Joint Conferences on Artificial Intelligence
+- [CoRL](https://www.robot-learning.org/): Conference on Robot Learning
 - ECML: The European Conference on Machine Learning
 - **IEEE Robotics & Automation Society (RAS)**
   - AIM — Advanced Intelligent Mechatronics
