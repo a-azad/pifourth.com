@@ -4,15 +4,6 @@ layout: default
 <p style="text-align: center; color:#5c58589f; margin =0">S T U F F</p>
 * * *
 
-### Project Management
-- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
-- [Scrum Training Series](http://scrumtrainingseries.com/)
-- [Scrum Guide](https://www.scrumguides.org/index.html)
-- [Scrum Master Checklist](https://scrummasterchecklist.org/)
-- [MBA Wiki A](http://www.netmba.com/)
-- [MBA Wiki B](http://www.quickmba.com/)
-- [Accounting Wiki](https://www.accountingcoach.com/)
-
 ### Conferencs
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
 - [ICLR](https://iclr.cc/): International Conference on Learning Representations
@@ -66,4 +57,11 @@ layout: default
   - Statistical Modeling: The Two Cultures ([pdf](http://www2.math.uu.se/~thulin/mm/breiman.pdf))
   - No Free Lunch Theorems for Optimization ([pdf](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf))
 
-
+### Project Management
+- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [Scrum Training Series](http://scrumtrainingseries.com/)
+- [Scrum Guide](https://www.scrumguides.org/index.html)
+- [Scrum Master Checklist](https://scrummasterchecklist.org/)
+- [MBA Wiki A](http://www.netmba.com/)
+- [MBA Wiki B](http://www.quickmba.com/)
+- [Accounting Wiki](https://www.accountingcoach.com/)
