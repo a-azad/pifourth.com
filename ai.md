@@ -5,7 +5,7 @@ layout: default
 
 * * *
 
-### Reinforcement Learning
+## Reinforcement Learning
 
 - **Lectures on Reinforcement Learning**
 

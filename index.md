@@ -4,7 +4,7 @@ layout: default
 <p style="text-align: center; color:#5c58589f; margin =0">M A C H I N E . L E A R N I N G</p>
 * * *
 
-### **Machine Learning**
+## **Machine Learning**
 
 - **Lectures**
   - Stanford CS229: Machine Learning ([web](http://cs229.stanford.edu/))
@@ -20,7 +20,7 @@ layout: default
   - Tom Mitchel's book: [Machine Learning](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Mitchell-onlinebook.pdf)
   - "Awsome" Machine Learning Books etc. ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
-### **Deep Learning**
+## **Deep Learning**
 
 - **Lectures**
   - Ng/Katanforoosh ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)), ([web](https://cs230.stanford.edu/))
@@ -33,12 +33,12 @@ layout: default
 - **Resources**
   - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
 
-### **Computer Vision**
+## **Computer Vision**
 
 - **Lectures**
   - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
 
-### **Time Series**
+## **Time Series**
 
 - **Resources**
   - Forecasting: Principles and Practice ([book](https://otexts.com/fpp2/))
@@ -46,7 +46,7 @@ layout: default
   - Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
   - Matrix Profile ([link](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html))
 
-### **Natural Language Processing**
+## **Natural Language Processing**
 
 - **Lectures**
   - Stanford CS224N: Natural Language Processing with Deep Learning ([web](https://web.stanford.edu/class/cs224n/)), ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
