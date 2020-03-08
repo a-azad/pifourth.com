@@ -9,13 +9,16 @@ layout: default
 
 - **Lectures on Reinforcement Learning**
 
-  - Georgia Tech RL Course ([youtube](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))
-  - UCL Course on RL by David Silver ([web](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html))
-  - UC Berkley ([CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/))
-  - UC Berkley ([CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse-fa15/))
-  - Univerity of Waterloo ([CS 885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/))
-  - UCL Advanced Deep Learning & Reinforcement Learning ([youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs))
-  - Deep RL Bootcamp 2017 at Berkley ([web](https://sites.google.com/view/deep-rl-bootcamp/))
+  - Charles Isbell & Michael Littman, Georgia Tech ([youtube](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))
+  - David Silver, UCL ([web](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html))
+  - Pascal Poupart, UofWaterloo ([CS 885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/))
+ 
+- **Lectures on Reinforcement Learning**
+  - Pieter Abbeel, Bootcamp 2017 at Berkley ([web](https://sites.google.com/view/deep-rl-bootcamp/))
+  - Sergey Levine, UC Berkley ([CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/))
+  - John Schulman & Pieter Abbeel, UC Berkley ([CS 294](http://rll.berkeley.edu/deeprlcourse-fa15/))
+  - DeepMind Advanced DL/RL, UCL ([youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs))
+
 
 - **Books & Material**
 
