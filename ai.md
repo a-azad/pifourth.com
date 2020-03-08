@@ -8,12 +8,11 @@ layout: default
 ## Reinforcement Learning
 
 - **Lectures on Reinforcement Learning**
-
   - Charles Isbell & Michael Littman, Georgia Tech ([youtube](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))
   - David Silver, UCL ([web](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html))
   - Pascal Poupart, UofWaterloo ([CS 885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/))
  
-- **Lectures on Reinforcement Learning**
+- **Lectures on Deep Reinforcement Learning**
   - Pieter Abbeel, Bootcamp 2017 at Berkley ([web](https://sites.google.com/view/deep-rl-bootcamp/))
   - Sergey Levine, UC Berkley ([CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/))
   - John Schulman & Pieter Abbeel, UC Berkley ([CS 294](http://rll.berkeley.edu/deeprlcourse-fa15/))
@@ -21,7 +20,6 @@ layout: default
 
 
 - **Books & Material**
-
   - Artificial Intelligence by Poole and Mackworth ([book](https://artint.info/2e/html/ArtInt2e.html))
   - Richard Sutton
     - Webpage ([link](http://incompleteideas.net/))
@@ -30,13 +28,11 @@ layout: default
   - OpenAI Spinning Up ([web](https://spinningup.openai.com))
 
 - **Resources on Github**
-
   - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning/blob/master/README.md#overview)
   - [https://github.com/aikorea/awesome-rl](awesome-rl)
   - [DeepRL](https://github.com/ShangtongZhang/DeepRL)
 
 - **Ideas**
-
   - Deep Reinforcement Learning Doesn't Work Yet! ([blogPost](https://www.alexirpan.com/2018/02/14/rl-hard.html))
 
 * * *
@@ -44,13 +40,10 @@ layout: default
 ## Robotics
 
 - **Lectures**
-
   - UC Berkely: [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
 
 - **Learn Robotics**
-
   - General Advice: [Quora](https://www.quora.com/What-are-the-best-online-courses-to-learn-robotics)
 
 - **Simulation**
-
   - [Wikipedia](https://en.wikipedia.org/wiki/Robotics_simulator)
