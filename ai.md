@@ -2,7 +2,10 @@
 layout: default
 ---
 <p style="text-align: center; color:#5c58589f; margin =0">A R T I F I C I A L . I N T E L L I G E N C E</p>
+
 * * *
+
+## Reinforcement Learning
 
 ### Lectures on Reinforcement Learning
 
@@ -32,3 +35,19 @@ layout: default
 ### Ideas
 
 - Deep Reinforcement Learning Doesn't Work Yet! ([blogPost](https://www.alexirpan.com/2018/02/14/rl-hard.html))
+
+* * *
+
+## Robotics
+
+### Lectures
+
+- UC Berkely: [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
+
+### Learn Robotics
+
+- General Advice: [Quora](https://www.quora.com/What-are-the-best-online-courses-to-learn-robotics)
+
+### Simulation
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Robotics_simulator)
