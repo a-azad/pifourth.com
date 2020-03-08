@@ -2,6 +2,7 @@
 layout: default
 ---
 <p style="text-align: center; color:#5c58589f; margin =0">M A C H I N E . L E A R N I N G</p>
+
 * * *
 
 ## **Machine Learning**
@@ -20,6 +21,8 @@ layout: default
   - Tom Mitchel's book: [Machine Learning](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Mitchell-onlinebook.pdf)
   - "Awsome" Machine Learning Books etc. ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
+* * *
+
 ## **Deep Learning**
 
 - **Lectures**
@@ -33,10 +36,14 @@ layout: default
 - **Resources**
   - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
 
+* * *
+
 ## **Computer Vision**
 
 - **Lectures**
   - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
+
+* * *
 
 ## **Time Series**
 
@@ -45,6 +52,8 @@ layout: default
   - Classical Time Series Forecasting Methods in Python ([blogPost](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/))
   - Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
   - Matrix Profile ([link](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html))
+
+* * *
 
 ## **Natural Language Processing**
 
