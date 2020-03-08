@@ -27,8 +27,9 @@ layout: default
 
 - **Lectures**
   - Ng/Katanforoosh ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)), ([web](https://cs230.stanford.edu/))
-  - Lex Fridman at MIT ([web](https://deeplearning.mit.edu/)), ([youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf))
   - Ng/Deep Learning Specialization ([coursera](https://www.coursera.org/specializations/deep-learning)), ([github](https://github.com/limberc/deeplearning.ai))
+  - Lex Fridman at MIT ([web](https://deeplearning.mit.edu/)), ([youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf))
+  - Pieter Abbeel Deep Unsupervised Learning ([Bekrley CS-294](https://sites.google.com/view/berkeley-cs294-158-sp20/home))
 
 - **Cheetsheets**
     - Ng/Deep Learning Specialization ([Tess Ferrandez cheatsheets](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng))
