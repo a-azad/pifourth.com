@@ -62,3 +62,7 @@ layout: default
 
 - **Resources**
   - "Awsome" NLP Books etc. ([github](https://github.com/keon/awesome-nlp))
+  - **Tuitorial** on Kaggle by Hugging Face ([notebooks](https://www.kaggle.com/funtowiczmo/notebooks)) 
+
+  ## **Interview**
+  - "Awesome" Data Science Inteview Resources ([github](https://github.com/alexeygrigorev/data-science-interviews/))
