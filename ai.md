@@ -26,6 +26,7 @@ layout: default
     - Introduction to RL ([book](http://incompleteideas.net/book/the-book.html)), ([solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)), ([solutions](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction))
   - Csaba Szepesvári: [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
   - OpenAI Spinning Up ([web](https://spinningup.openai.com))
+  - Maxim Lapam, Deep Reinforcement Learning Handson
 
 - **Resources on Github**
   - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning/blob/master/README.md#overview)
@@ -41,6 +42,11 @@ layout: default
 
 - **Lectures**
   - UC Berkely: [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
+
+- **Modern Robotics Package**
+  - Modern Robotics: Mechanics, Planning, and Control," Kevin M. Lynch and Frank C. Park ([web](http://hades.mech.northwestern.edu/index.php/Modern_Robotics))
+  - Coursera Specialization ([link](https://www.coursera.org/specializations/modernrobotics))
+  - The book ([link](http://hades.mech.northwestern.edu/images/2/2e/MR-largefont-v2.pdf))
 
 - **Learn Robotics**
   - General Advice: [Quora](https://www.quora.com/What-are-the-best-online-courses-to-learn-robotics)

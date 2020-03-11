@@ -16,9 +16,10 @@ layout: default
 
 - **Resources**
   - An Introduction to Statistical Learning ([book](http://faculty.marshall.usc.edu/gareth-james/)), ([video](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)), ([youtube](https://www.youtube.com/channel/UC4OWDcPB1peiBXDfCSZ3h-w)), ([solutions](https://github.com/asadoughi/stat-learning))
-- The Elements of Statistical Learning ([book](https://web.stanford.edu/~hastie/ElemStatLearn/))
+  - The Elements of Statistical Learning ([book](https://web.stanford.edu/~hastie/ElemStatLearn/))
   - Tom Mitchel's book: [Machine Learning](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Mitchell-onlinebook.pdf)
-  - "Awsome" Machine Learning Books etc. ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
+  - Andriy Burkov. The Hundred Page Machine Learning ([web](http://themlbook.com/))
+  - "Awsome" Machine Learning resouces ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
 * * *
 
@@ -35,6 +36,7 @@ layout: default
 
 - **Resources**
   - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
+  - Deep Learning with PyTorch, ([web](https://pytorch.org/deep-learning-with-pytorch))
 
 * * *
 
@@ -64,5 +66,6 @@ layout: default
   - "Awsome" NLP Books etc. ([github](https://github.com/keon/awesome-nlp))
   - **Tuitorial** on Kaggle by Hugging Face ([notebooks](https://www.kaggle.com/funtowiczmo/notebooks)) 
 
-  ## **Interview**
+## **Interview**
   - "Awesome" Data Science Inteview Resources ([github](https://github.com/alexeygrigorev/data-science-interviews/))
+  - Machine Learning Interviews Book, Chip Huyen([github](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf))
