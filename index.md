@@ -70,4 +70,4 @@ layout: default
 
 ## **Interview**
   - "Awesome" Data Science Inteview Resources ([github](https://github.com/alexeygrigorev/data-science-interviews/))
-  - Machine Learning Interviews Book, Chip Huyen([github](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf))
+  - Machine Learning Interviews Book, Chip Huyen ([github](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf))

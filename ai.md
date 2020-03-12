@@ -9,9 +9,9 @@ layout: default
 
 - **Lectures on Reinforcement Learning**
   - Charles Isbell & Michael Littman, Georgia Tech ([youtube](https://www.youtube.com/playlist?list=PLFihX_3MLxS-xipfAZUwzAie7AWbJQ8k2))
-  - David Silver, UCL ([web](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html))
+  - David Silver, UCL ([web](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)), ([youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ))
   - Pascal Poupart, UofWaterloo ([CS 885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/))
- 
+
 - **Lectures on Deep Reinforcement Learning**
   - Pieter Abbeel, Bootcamp 2017 at Berkley ([web](https://sites.google.com/view/deep-rl-bootcamp/))
   - Sergey Levine, UC Berkley ([CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/))
