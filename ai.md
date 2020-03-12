@@ -43,7 +43,7 @@ layout: default
   - UC Berkely: [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
 
 - **Modern Robotics Package**
-  - Modern Robotics: Mechanics, Planning, and Control," Kevin M. Lynch and Frank C. Park ([web](http://hades.mech.northwestern.edu/index.php/Modern_Robotics))
+  - Modern Robotics: Mechanics, Planning, and Control, Lynch & Park ([web](http://hades.mech.northwestern.edu/index.php/Modern_Robotics))
   - Coursera Specialization ([link](https://www.coursera.org/specializations/modernrobotics))
   - The book ([link](http://hades.mech.northwestern.edu/images/2/2e/MR-largefont-v2.pdf))
 
