@@ -19,9 +19,7 @@ layout: default
   - DeepMind Advanced DL/RL, UCL ([youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs))
 
 + **Books & Material**
-  - Richard Sutton
-      * Webpage ([link](http://incompleteideas.net/))
-      * Introduction to RL ([book](http://incompleteideas.net/book/the-book.html)), ([solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)), ([solutions](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction))
+  - __Richard Sutton__ ([web](http://incompleteideas.net/)), ([the book: Introduction to RL](http://incompleteideas.net/book/the-book.html)), ([solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)), ([solutions](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction))
   - Csaba Szepesvári: [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
   - OpenAI Spinning Up ([web](https://spinningup.openai.com))
   - Maxim Lapam, Deep Reinforcement Learning Handson
