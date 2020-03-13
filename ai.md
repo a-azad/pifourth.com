@@ -27,8 +27,7 @@ layout: default
 
 + **Resources on Github**
   - Reinforcement Learning ([wiki](https://github.com/dennybritz/reinforcement-learning/blob/master/README.md#overview))
-  - "Awesome" Reinforcement Learning ([github](https://github.com/aikorea/awesome-rl))
-  - Deep Reinforcement Learning ([github](https://github.com/ShangtongZhang/DeepRL)
+  - Github repos with a collection of helpful links   ([AwesomeRL](https://github.com/aikorea/awesome-rl)), ([DeepRL](https://github.com/ShangtongZhang/DeepRL))
 
 + **Ideas**
   - Deep Reinforcement Learning Doesn't Work Yet! ([blogPost](https://www.alexirpan.com/2018/02/14/rl-hard.html))
