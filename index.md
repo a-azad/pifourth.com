@@ -19,6 +19,7 @@ layout: default
   - The Elements of Statistical Learning ([book](https://web.stanford.edu/~hastie/ElemStatLearn/))
   - Tom Mitchel's book: [Machine Learning](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Mitchell-onlinebook.pdf)
   - Andriy Burkov. The Hundred Page Machine Learning ([web](http://themlbook.com/))
+  - Mehryar Mohri, Foundations of ML ([web](https://cs.nyu.edu/~mohri/mlbook/))
   - "Awsome" Machine Learning resouces ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
 * * *
