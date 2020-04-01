@@ -3,6 +3,9 @@
 # If a command fails then the deploy stops
 set -e
 
+# delete docs folder
+rm -rf docs
+
 # Go to builder folder
 cd www
 

@@ -1,7 +1,8 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "/" #https://a-azad.github.io/pifourth.com/"
+baseURL = "/"
 publishDir = "./../docs/"
+
 # theme
 theme = "dot"
 # site title
