@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Questions fréquemment posées on Dot</title>
-    <link>https://a-azad.github.io/pifourth.com/fr/faq/</link>
+    <link>/fr/faq/</link>
     <description>Recent content in Questions fréquemment posées on Dot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Les documents Hugo sont sous copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     
-	<atom:link href="https://a-azad.github.io/pifourth.com/fr/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fr/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
