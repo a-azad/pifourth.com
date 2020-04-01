@@ -3,6 +3,11 @@
 baseURL = "/"
 publishDir = "./../docs/"
 
+
+relativeURLs = true
+uglyURLs = true
+
+
 # theme
 theme = "dot"
 # site title
@@ -11,7 +16,7 @@ title = "Dot"
 disableLanguages = []
 
 [markup.goldmark.renderer]
-unsafe= false
+unsafe= true
 
 ################################# navigation ################################
 [[menu.main]]

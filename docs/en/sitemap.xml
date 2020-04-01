@@ -1,293 +1,235 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/billing-pricing/ownership/</loc>
+    <loc>/billing-pricing/ownership.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/ownership/"
+                href="/fr/billing-pricing/ownership.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/ownership/"
+                href="/billing-pricing/ownership.html"
                 />
   </url>
   
   <url>
-    <loc>/features/linux/</loc>
+    <loc>/features/linux.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/linux/"
+                href="/fr/features/linux.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/linux/"
+                href="/features/linux.html"
                 />
   </url>
   
   <url>
-    <loc>/installation/requirments/</loc>
+    <loc>/installation/requirments.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/requirments/"
+                href="/fr/installation/requirments.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/requirments/"
+                href="/installation/requirments.html"
                 />
   </url>
   
   <url>
-    <loc>/installation/install/</loc>
+    <loc>/installation/install.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/install/"
+                href="/fr/installation/install.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/install/"
+                href="/installation/install.html"
                 />
   </url>
   
   <url>
-    <loc>/features/mac/</loc>
+    <loc>/features/mac.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/mac/"
+                href="/fr/features/mac.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/mac/"
+                href="/features/mac.html"
                 />
   </url>
   
   <url>
-    <loc>/billing-pricing/manage/</loc>
+    <loc>/billing-pricing/manage.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/manage/"
+                href="/fr/billing-pricing/manage.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/manage/"
+                href="/billing-pricing/manage.html"
                 />
   </url>
   
   <url>
-    <loc>/installation/configuration/</loc>
+    <loc>/installation/configuration.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/configuration/"
+                href="/fr/installation/configuration.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/configuration/"
+                href="/installation/configuration.html"
                 />
   </url>
   
   <url>
-    <loc>/billing-pricing/bill/</loc>
+    <loc>/billing-pricing/bill.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/bill/"
+                href="/fr/billing-pricing/bill.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/bill/"
+                href="/billing-pricing/bill.html"
                 />
   </url>
   
   <url>
-    <loc>/features/routing/</loc>
+    <loc>/features/routing.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/routing/"
+                href="/fr/features/routing.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/routing/"
+                href="/features/routing.html"
                 />
   </url>
   
   <url>
-    <loc>/installation/customization/</loc>
+    <loc>/installation/customization.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/customization/"
+                href="/fr/installation/customization.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/customization/"
+                href="/installation/customization.html"
                 />
   </url>
   
   <url>
-    <loc>/billing-pricing/payment/</loc>
+    <loc>/billing-pricing/payment.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/payment/"
+                href="/fr/billing-pricing/payment.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/payment/"
+                href="/billing-pricing/payment.html"
                 />
   </url>
   
   <url>
-    <loc>/features/ubuntu/</loc>
+    <loc>/features/ubuntu.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/ubuntu/"
+                href="/fr/features/ubuntu.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/ubuntu/"
+                href="/features/ubuntu.html"
                 />
   </url>
   
   <url>
-    <loc>/installation/elements/</loc>
+    <loc>/installation/elements.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/installation/elements/"
+                href="/fr/installation/elements.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/installation/elements/"
+                href="/installation/elements.html"
                 />
   </url>
   
   <url>
-    <loc>/billing-pricing/profile/</loc>
+    <loc>/billing-pricing/profile.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/billing-pricing/profile/"
+                href="/fr/billing-pricing/profile.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/billing-pricing/profile/"
+                href="/billing-pricing/profile.html"
                 />
   </url>
   
   <url>
-    <loc>/features/windows/</loc>
+    <loc>/features/windows.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/features/windows/"
+                href="/fr/features/windows.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/features/windows/"
-                />
-  </url>
-  
-  <url>
-    <loc>/installation/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/billing-pricing/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/billing-pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/billing-pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/features/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/features/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/features/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
+                href="/features/windows.html"
                 />
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -301,44 +243,103 @@
   </url>
   
   <url>
-    <loc>/faq/</loc>
+    <loc>/installation.html</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/faq/"
+                href="/fr/installation.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faq/"
+                href="/installation.html"
                 />
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/billing-pricing.html</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/contact/"
+                href="/fr/billing-pricing.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="/billing-pricing.html"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/features.html</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/fr/features.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/features.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/faq.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/faq.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/faq.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/contact.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contact.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags.html"
                 />
   </url>
   
