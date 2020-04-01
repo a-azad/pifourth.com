@@ -43,6 +43,12 @@ hasChildren = true
 
   [[menu.main]]
   parent = "docs"
+  name = "Installation"
+  url = "installation2"
+  weight = 1
+
+  [[menu.main]]
+  parent = "docs"
   name = "Billing and Pricing"
   url = "billing-pricing"
   weight = 2
@@ -51,6 +57,12 @@ hasChildren = true
   parent = "docs"
   name = "Features"
   url = "features"
+  weight = 3
+
+  [[menu.main]]
+  parent = "docs"
+  name = "WTF"
+  url = "faq"
   weight = 3
 
 

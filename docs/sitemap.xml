@@ -18,7 +18,17 @@
   </url>
   
   <url>
+    <loc>/installation2/requirments.html</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/installation/install.html</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation2/install.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -38,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/installation2/configuration.html</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/billing-pricing/bill.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
@@ -53,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/installation2/customization.html</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/billing-pricing/payment.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
@@ -64,6 +84,11 @@
   
   <url>
     <loc>/installation/elements.html</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation2/elements.html</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -88,6 +113,11 @@
   </url>
   
   <url>
+    <loc>/installation2.html</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/billing-pricing.html</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
@@ -107,10 +137,6 @@
   
   <url>
     <loc>/contact.html</loc>
-  </url>
-  
-  <url>
-    <loc>/contact2.html</loc>
   </url>
   
   <url>
