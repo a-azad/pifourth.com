@@ -11,7 +11,7 @@ title = "Dot"
 disableLanguages = []
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe= false
 
 ################################# navigation ################################
 [[menu.main]]
