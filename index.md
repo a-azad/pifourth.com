@@ -36,7 +36,8 @@ layout: default
 
 - **Resources**
   - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
-  - Deep Learning with PyTorch, ([web](https://pytorch.org/deep-learning-with-pytorch))
+  - Deep Learning with PyTorch ([web](https://pytorch.org/deep-learning-with-pytorch))
+  - Dive into Deep Learning, based on NumPy ([link](http://d2l.ai/))
 
 * * *
 
