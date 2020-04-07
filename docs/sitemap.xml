@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/doc-alaki/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-abbas/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-asli/</loc>
+  </url>
+  
+  <url>
+    <loc>/doc-alaki/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-abbas/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-asli/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>/doc-alaki/getting-started/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-abbas/getting-started/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-asli/getting-started/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/doc-alaki/getting-started/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-abbas/getting-started/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-asli/getting-started/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>/doc-alaki/getting-started/shortcodes-example/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-abbas/getting-started/shortcodes-example/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs-asli/getting-started/shortcodes-example/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+</urlset>

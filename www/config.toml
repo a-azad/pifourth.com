@@ -1,0 +1,58 @@
+baseURL = "/"
+publishDir = "./../docs/"
+title = "π:4"
+enableRobotsTXT = true
+theme = "compose"
+enableGitInfo = false
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+#  menu items
+[[menu.main]]
+    name = "Docs"
+    weight = 1
+    url = "docs-asli/"
+
+[[menu.main]]
+    name = "Abbas"
+    weight = 2
+    url = "docs-abbas/"
+
+[[menu.main]]
+    name = "alaki"
+    weight = 3
+    url = "doc-alaki/"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"
+    tabWidth = 2
+
+# Everything below this are Site Params
+
+[params]
+  author = "Ali Azad"
+  searchPlaceholder = "Search ..."
+  repo = "https://github.com/a-azad/pifourth.com"
+
+  time_format_blog = "Monday, January 02, 2006"
+  time_format_default = "January 2, 2006"
+  [params.logo]
+    lightMode = "logo.png"
+    darkMode = "logo.png"
+
+  # [params.source]
+  #   name = "GitHub-"
+  #   icon = "github.svg"
+  #   url = "https://github.com/onweru/compose/"
