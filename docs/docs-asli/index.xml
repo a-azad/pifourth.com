@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compose Docs on π:4</title>
-    <link>/docs-asli/</link>
+    <link>https://a-azad.github.io/pifourth.com/docs-asli/</link>
     <description>Recent content in Compose Docs on π:4</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/docs-asli/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a-azad.github.io/pifourth.com/docs-asli/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
