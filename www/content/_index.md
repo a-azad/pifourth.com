@@ -6,7 +6,7 @@ title = "Compose"
 
 <div style="text-align:center;">
 
-![](/images/landinglogo.png)
+![](images/landinglogo.png)
 
 # PiFourth.com
 

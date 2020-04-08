@@ -5,7 +5,7 @@ description: >
   Use hugo shortcodes to quickly compose your documentation pages.
 ---
 
-### **Machine Learning**
+## **Machine Learning**
 
 - **Lectures**
   - Stanford CS229: Machine Learning ([web](http://cs229.stanford.edu/))
