@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compose on π:4</title>
+    <link>/</link>
+    <description>Recent content in Compose on π:4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/docs-aiml/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-aiml/ml/</guid>
+      <description>Machine Learning   Lectures
+ Stanford CS229: Machine Learning (web) Andrew Ng&amp;rsquo;s ML course material (link)    Cheetsheets
+ Amidi&amp;rsquo;s: Shervin or Afshin or Github    Resources
+ An Introduction to Statistical Learning (book), (video), (youtube), (solutions) The Elements of Statistical Learning (book) Tom Mitchel&amp;rsquo;s book: Machine Learning Andriy Burkov. The Hundred Page Machine Learning (web) Mehryar Mohri, Foundations of ML (web) &amp;ldquo;Awsome&amp;rdquo; Machine Learning resouces (github)     Deep Learning   Lectures</description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>/docs-aiml/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-aiml/ai/</guid>
+      <description>Reinforcement Learning   Lectures on Reinforcement Learning
+ Charles Isbell &amp;amp; Michael Littman, Georgia Tech (youtube) David Silver, UCL (web), (youtube) Pascal Poupart, UofWaterloo (CS 885), (youtube)    Lectures on Deep Reinforcement Learning
+ Pieter Abbeel, Bootcamp 2017 at Berkley (web) Sergey Levine, UC Berkley (CS 285) John Schulman &amp;amp; Pieter Abbeel, UC Berkley (CS 294) DeepMind Advanced DL/RL, UCL (youtube)    Books &amp;amp; Material</description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>/docs-aiml/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-aiml/coding/</guid>
+      <description>Computing Science  Basics  Regual Expression  Online Regex Tester  BigO Notation  Cheat Sheet Blog Post  Python  Google&amp;rsquo;s Python Class format strftime directives C# to Python  Visualize  Graph: Guphi Color Brewer  Frontend  JavaScript Reference  Refactoring  PEP8 Python Style  Coding Practice  LeetCode HackerRank FreeCodeCamp  Interview Guide  Software Engineering Tech Interview Handbook Mock Interview Videos Pump  System Design  System Design Primer  Algorithm &amp;amp; Data Structure  Python for Algorithms Problem Solving in Python Algorithms Book Sorting Algorithms Animations Visualising Data Structures &amp;amp; Algorithms Cheat Sheet MIT: Data Structure and Algorithm (youtube)  </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/docs-blog/getting-started/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-blog/getting-started/overview/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/docs-aiml/etc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-aiml/etc/</guid>
+      <description>Conferencs  NeurIPS: Conference on Neural Information Processing Systems ICLR: International Conference on Learning Representations AAAI: Association for the Advancement of Artificial Intelligence ACL: Conference of the Association for Computational Linguistics ICML: International Conference on Machine Learning RSS: Robotics: Science and Systems CVPR: Conference on Computer Vision and Pattern Recognitio IJCAI: International Joint Conferences on Artificial Intelligence CoRL: Conference on Robot Learning ECML: The European Conference on Machine Learning IEEE Robotics &amp;amp; Automation Society (RAS)  ICRA – International Conference on Robotics and Automation IRC — International Conference on Robotic Computing IROS — Intelligent Robots and Systems More &amp;hellip;    Journals  JAIR: Journal of Artificial Intelligence Research  Open Access Publications  Open-Access Archive by Connell (arxiv.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>/docs-blog/getting-started/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-blog/getting-started/shortcodes/</guid>
+      <description>Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.
+Sometimes, the shortcode will wrap content, sometimes it won&amp;rsquo;t. When content is wrapped, a closing shortcode tag is needed. Please see the link I provided above and the markdown files for examples.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Applied</title>
+      <link>/docs-blog/getting-started/shortcodes-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs-blog/getting-started/shortcodes-example/</guid>
+      <description>Using blocks, columns &amp;amp; buttons 1 2 3 4 5 6 7 8 9 10 11 12 13  {{&amp;lt; block &amp;#34;grid-2&amp;#34; &amp;gt;}} {{&amp;lt; column &amp;gt;}} #### Coumn 1  Lorem ipsum dolor sit amet, ... {{&amp;lt; button &amp;#34;https://github.com/onweru/compose&amp;#34; &amp;#34;Download Theme&amp;#34; &amp;gt;}} {{&amp;lt; /column &amp;gt;}} {{&amp;lt; column &amp;gt;}} &amp;lt;!-- generates 👇 --&amp;gt;   Coumn 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+    </item>
+    
+  </channel>
+</rss>
