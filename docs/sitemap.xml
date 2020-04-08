@@ -3,23 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://a-azad.github.io/pifourth.com/doc-alaki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://a-azad.github.io/pifourth.com/docs-abbas/</loc>
-  </url>
-  
-  <url>
     <loc>https://a-azad.github.io/pifourth.com/docs-asli/</loc>
   </url>
   
   <url>
-    <loc>https://a-azad.github.io/pifourth.com/doc-alaki/getting-started/</loc>
+    <loc>https://a-azad.github.io/pifourth.com/singlepage/</loc>
   </url>
   
   <url>
-    <loc>https://a-azad.github.io/pifourth.com/docs-abbas/getting-started/</loc>
+    <loc>https://a-azad.github.io/pifourth.com/docs-aiml/</loc>
   </url>
   
   <url>
@@ -27,11 +19,15 @@
   </url>
   
   <url>
-    <loc>https://a-azad.github.io/pifourth.com/doc-alaki/getting-started/overview/</loc>
+    <loc>https://a-azad.github.io/pifourth.com/docs-aiml/ml/</loc>
   </url>
   
   <url>
-    <loc>https://a-azad.github.io/pifourth.com/docs-abbas/getting-started/overview/</loc>
+    <loc>https://a-azad.github.io/pifourth.com/docs-aiml/ai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://a-azad.github.io/pifourth.com/docs-aiml/coding/</loc>
   </url>
   
   <url>
@@ -39,23 +35,11 @@
   </url>
   
   <url>
-    <loc>https://a-azad.github.io/pifourth.com/doc-alaki/getting-started/shortcodes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://a-azad.github.io/pifourth.com/docs-abbas/getting-started/shortcodes/</loc>
+    <loc>https://a-azad.github.io/pifourth.com/docs-aiml/etc/</loc>
   </url>
   
   <url>
     <loc>https://a-azad.github.io/pifourth.com/docs-asli/getting-started/shortcodes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://a-azad.github.io/pifourth.com/doc-alaki/getting-started/shortcodes-example/</loc>
-  </url>
-  
-  <url>
-    <loc>https://a-azad.github.io/pifourth.com/docs-abbas/getting-started/shortcodes-example/</loc>
   </url>
   
   <url>

@@ -14,9 +14,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "docs-asli/"
 
 [[menu.main]]
-    name = "Abbas"
+    name = "AI-ML"
     weight = 2
-    url = "docs-abbas/"
+    url = "docs-aiml/"
 
 [[menu.main]]
     name = "alaki"
