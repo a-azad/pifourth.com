@@ -7,10 +7,10 @@
     {{- .Content }}
     <div class="pager">
       {{- with .Next }}
-      <a href="{{ .Permalink }}" id="prev">{{ .Title }}</a>
+      <a href="{{ .Permalink }}" id="prev" style="color:mediumseagreen">&lt;&lt; {{ .Title }}</a>
       {{ end }}
       {{- with .Prev }}
-      <a href="{{ .Permalink }}" id="next">{{ .Title }}</a>
+      <a href="{{ .Permalink }}" id="next" style="color:mediumseagreen">{{ .Title }} &gt;&gt;</a>
       {{- end }}
     </div>
   </section>

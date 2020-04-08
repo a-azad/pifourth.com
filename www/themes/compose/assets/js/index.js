@@ -157,8 +157,8 @@ function loadActions() {
         pushClass(toc, 'toc');
         if(toc.children.length >= 1) {
           const tocItems = Array.from(toc.children[0].children);
-  
           const previousHeading = toc.previousElementSibling;
+          
           previousHeading.matches('.active') ? pushClass(toc, tocActive) : false;
     
           tocItems.forEach(function(item){

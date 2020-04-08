@@ -9,14 +9,15 @@
   &-link
     display: grid
     padding: 0.2rem 0
-
+    
 .toc
   border-left: 2px solid var(--theme)
   padding: 0 1rem
   height: 0
   overflow: hidden
   &_active
-    height: initial
+    height: initial  
+
 .search
   flex: 1
   display: flex
@@ -28,10 +29,10 @@
     width: 13.5rem
     outline: none
     border: none
-    box-shadow: 0 1rem 4rem rgba(0,0,0,0.17)
+    // box-shadow: 0 1rem 4rem rgba(0,0,0,0.17)
     font-size: 1rem
   &_label
-    background-image: url(/images/search.svg)
+    background-image: url("images/search.svg")
     width: 1.25rem
     height: 1.25rem
     position: absolute
@@ -53,6 +54,7 @@
       overflow: hidden
       &:empty
         display: none
+
 
 .button
   background-color: var(--theme)
