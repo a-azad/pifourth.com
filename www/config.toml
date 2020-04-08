@@ -8,20 +8,21 @@ enableGitInfo = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
-[[menu.main]]
-    name = "Docs"
-    weight = 1
-    url = "docs-asli/"
 
 [[menu.main]]
     name = "AI-ML"
-    weight = 2
+    weight = 1
     url = "docs-aiml/"
 
 [[menu.main]]
-    name = "alaki"
-    weight = 3
-    url = "doc-alaki/"
+    name = "BLOG"
+    weight = 2
+    url = "docs-blog/"
+
+# [[menu.main]]
+#     name = "alaki"
+#     weight = 3
+#     url = "singlePage/"
 
 
 [markup]
