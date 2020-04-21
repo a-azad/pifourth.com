@@ -37,6 +37,7 @@ description: >
 
 - **Resources**
   - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
+  - Michael Nielsen: NN & DL ([html-book](http://neuralnetworksanddeeplearning.com/))
   - Deep Learning with PyTorch, ([web](https://pytorch.org/deep-learning-with-pytorch))
 
 * * *
