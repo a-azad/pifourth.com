@@ -8,7 +8,7 @@ description: >
 ## **Machine Learning**
 
 - **Lectures**
-  - Stanford CS229: Machine Learning ([web](http://cs229.stanford.edu/))
+  - Stanford CS229: Machine Learning ([web](http://cs229.stanford.edu/), [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
   - Andrew Ng's ML course material ([link](http://www.holehouse.org/mlclass/))
 
 - **Cheetsheets**
