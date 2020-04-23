@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "ML"
 weight: 2
 description: >
   Use hugo shortcodes to quickly compose your documentation pages.
