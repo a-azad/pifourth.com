@@ -22,14 +22,12 @@
     </item>
     
     <item>
-      <title>Overview</title>
-      <link>https://a-azad.github.io/pifourth.com/docs-blog/overview/</link>
+      <title>Transition into Data Science</title>
+      <link>https://a-azad.github.io/pifourth.com/docs-blog/become_data_scientist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://a-azad.github.io/pifourth.com/docs-blog/overview/</guid>
-      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
-Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
-This way, you can side step complex html and css boilerplate in your content files.</description>
+      <guid>https://a-azad.github.io/pifourth.com/docs-blog/become_data_scientist/</guid>
+      <description>I Hate Giving Advice!  In this post, I&amp;rsquo;ve listed things (breadth) you probably need to know to become a data scientist. The depth of each depends totally on the work/job you are learning data science for. Companies are still confused about their job titles in the data-science world. So, do not count on the title. Job description is more important. Two jobs with the same title in the same company and in the same organization can be fundamentally two different things.</description>
     </item>
     
     <item>
