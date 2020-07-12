@@ -56,7 +56,8 @@ __Python for Data Science__
 
 
 ## Advanced AI Responsibilities
-COMING SOON!
+If you are comfortable with the topics mentioned above, you should be able to identify what next advanced topics you want to learn. In [this document](https://a-azad.github.io/pifourth.com/docs-aiml/), I gradually collect references that I found helpful in my own journey.  You can find learning material on the topics such as:
+
 - Deep Learning
 - Vision
 - NLP
