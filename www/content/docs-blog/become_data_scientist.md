@@ -14,15 +14,18 @@ description: >
   - Even if you do not have the background or you do but it is rusty, you can look them up when needed. You will gradually find your way in updating your knowledge when you go deeper into ML/AI material. 
 - Read/watch/do fast but several times. You should not expect to learn totally new stuff quickly and in one round. Learning takes time but doing can be fast.
 - Limit your learning material. Do not watch many courses or read many text books in parallel. Go step by step.
-- Do not distract yourself with _technologies_. Python or SQL are not technologies but Tensorflow, Spark, Tableau, etc. are. You can quickly learn them once you have a good grasp of the essentials.
+- Do not distract yourself with _technologies_. `Python` or `SQL` are not technologies but `Tensorflow`, `Spark`, `Tableau`, etc. are. You can quickly learn them once you have a good grasp of the essentials.
 - Eventually, these are some non-universal suggestions. It may not work for you or it may not fit your learning style.
 - Good Luck!
 
 ### Start Here
+- `Git` technology and free hosting websites such as `github` or `gitlab` are used for software development and version control. It is a must these days. They ease the process of storing and version control-ing your code. Learn `git` ([here](https://git-scm.com/doc)), create an account on `github` and make it your routine to keep a copy of whatever you build on `github`. Those codes will soon become part of your resume. _(Max 2 days to learn the basics and setup accounts)_
 - I used to share [this post](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c) with people but it is a bit old and extensive and you may get lost. Feel free to take a look, though.
 - I suggest reading [this report](https://workera.ai/resource_downloads/ai_career_pathways/) from [Workera](https://workera.ai/) and check out their website. I particularly like this chart:
 
 {{< picture "workera.png" >}} 
+
+
 <br>
 <br>
 
