@@ -4,7 +4,7 @@ weight: 2
 description: >
   This page tells you how to get started with the Compose theme, including installation and basic configuration.
 ---
-### I Hate Giving Advice!
+## I Hate Giving Advice!
 - In this post, I've listed _things_ (**breadth**) you probably need to know to become a data scientist. 
 - The **depth** of each depends totally on the work/job you are learning data science for. 
 - Companies are still confused about their _job titles_ in the data-science world. So, do not count on the title. Job description is more important. Two jobs with the same title in the same company and in the same organization can be fundamentally two different things. 
@@ -18,7 +18,7 @@ description: >
 - Eventually, these are some non-universal suggestions. It may not work for you or it may not fit your learning style.
 - Good Luck!
 
-### Start Here
+## Start Here
 - `Git` technology and free hosting websites such as `github` or `gitlab` are used for software development and version control. It is a must these days. They ease the process of storing and version control-ing your code. Learn [git](https://git-scm.com/doc), create an account on `github` and make it your routine to keep a copy of whatever you build on [github](https://github.com/). Those codes will soon become part of your resume. Max 2 days to learn the basics and setup accounts.
 - I used to share [this post](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c) with people but it is a bit old and extensive and you may get lost. Feel free to take a look, though.
 - I suggest reading [this report](https://workera.ai/resource_downloads/ai_career_pathways/) from [Workera](https://workera.ai/) and check out their website. I particularly like this chart:
