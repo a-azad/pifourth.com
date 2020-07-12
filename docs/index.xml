@@ -10,17 +10,6 @@
     
     
     <item>
-      <title>Overview</title>
-      <link>https://a-azad.github.io/pifourth.com/docs-blog/overview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://a-azad.github.io/pifourth.com/docs-blog/overview/</guid>
-      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
-Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
-This way, you can side step complex html and css boilerplate in your content files.</description>
-    </item>
-    
-    <item>
       <title>ML</title>
       <link>https://a-azad.github.io/pifourth.com/docs-aiml/ml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +19,17 @@ This way, you can side step complex html and css boilerplate in your content fil
  Stanford CS229: Machine Learning (web, youtube) Andrew Ng&amp;rsquo;s ML course material (link)    Cheetsheets
  Amidi&amp;rsquo;s: Shervin or Afshin or Github    Resources
  An Introduction to Statistical Learning (book), (video), (youtube), (solutions) The Elements of Statistical Learning (book) Tom Mitchel&amp;rsquo;s book: Machine Learning Andriy Burkov. The Hundred Page Machine Learning (web) Mehryar Mohri, Foundations of ML (web) &amp;ldquo;Awsome&amp;rdquo; Machine Learning resouces (github)     Deep Learning   Lectures</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://a-azad.github.io/pifourth.com/docs-blog/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-azad.github.io/pifourth.com/docs-blog/overview/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.</description>
     </item>
     
     <item>
