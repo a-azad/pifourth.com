@@ -10,6 +10,17 @@
     
     
     <item>
+      <title>Overview</title>
+      <link>https://a-azad.github.io/pifourth.com/docs-blog/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-azad.github.io/pifourth.com/docs-blog/overview/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.</description>
+    </item>
+    
+    <item>
       <title>ML</title>
       <link>https://a-azad.github.io/pifourth.com/docs-aiml/ml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://a-azad.github.io/pifourth.com/docs-aiml/coding/</guid>
-      <description>Computing Science  Basics  Regual Expression  Online Regex Tester  BigO Notation  Cheat Sheet Blog Post  Python  Google&amp;rsquo;s Python Class format strftime directives C# to Python  Visualize  Graph: Guphi Color Brewer  Frontend  JavaScript Reference  Refactoring  PEP8 Python Style  Coding Practice  LeetCode HackerRank FreeCodeCamp  Interview Guide  Software Engineering Tech Interview Handbook Mock Interview Videos Pump  System Design  System Design Primer  Algorithm &amp;amp; Data Structure  Python for Algorithms Problem Solving in Python Algorithms Book Sorting Algorithms Animations Visualising Data Structures &amp;amp; Algorithms Cheat Sheet MIT: Data Structure and Algorithm (youtube)  </description>
+      <description>Computing Science  Basics  Regular Expression  Online Regex Tester  BigO Notation  Cheat Sheet Blog Post  Python  Google&amp;rsquo;s Python Class format strftime directives C# to Python  Visualize  Graph: Guphi Color Brewer  Frontend  JavaScript Reference  Refactoring  PEP8 Python Style  Coding Practice  LeetCode HackerRank FreeCodeCamp  Interview Guide  Software Engineering Tech Interview Handbook Mock Interview Videos Pump  System Design  System Design Primer  Algorithm &amp;amp; Data Structure  Python for Algorithms Problem Solving in Python Algorithms Book Sorting Algorithms Animations Visualising Data Structures &amp;amp; Algorithms Cheat Sheet MIT: Data Structure and Algorithm (youtube)  </description>
     </item>
     
     <item>

@@ -9,7 +9,7 @@ description: >
 
 - [Basics](https://medium.com/basecs)
 
-### Regual Expression
+### Regular Expression
 
 - [Online Regex Tester](https://regex101.com/)
 
