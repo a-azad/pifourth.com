@@ -11,7 +11,7 @@ description: >
 - Keep in mind that almost no job expects you to be a _scientist_ in every one of the topics mentioned in this post. 
 - I intentionally did not list basics such as algebra, matrix operation, probability, etc. for two reasons:
   - I expect people with engineering or science background to read this. So, you already have some good knowledge of them.
-  - Even if you do not have the background or you do but it is rusty, you can look them up when needed. You will gradually find your way in updating your knowledge when you go deeper into ML/AI material. 
+  - Even if you do not have the background or you do but it is rusty, you can look them up when needed. You will gradually find your way in updating your knowledge when you go deeper into ML/AI material. How about [this book(https://mml-book.github.io/)]?
 - Read/watch/do fast but several times. You should not expect to learn totally new stuff quickly and in one round. Learning takes time but doing can be fast.
 - Limit your learning material. Do not watch many courses or read many text books in parallel. Go step by step.
 - Do not distract yourself with _technologies_. `Python` or `SQL` are not technologies but `Tensorflow`, `Spark`, `Tableau`, etc. are. You can quickly learn them once you have a good grasp of the essentials.

@@ -20,6 +20,7 @@ description: >
   - Tom Mitchel's book: [Machine Learning](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Mitchell-onlinebook.pdf)
   - Andriy Burkov. The Hundred Page Machine Learning ([web](http://themlbook.com/))
   - Mehryar Mohri, Foundations of ML ([web](https://cs.nyu.edu/~mohri/mlbook/))
+  - Understanding Machine Learning: From Theory to Algorithms ([ebook](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/))
   - "Awsome" Machine Learning resouces ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
 * * *
@@ -45,7 +46,11 @@ description: >
 ## **Computer Vision**
 
 - **Lectures**
+  - Basic computer vision ([The Ancient Secrets of Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p))
   - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
+  - Advanced Deep Learning for Computer Vision - Technical University Munich ([youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
+  - )
+
 
 * * *
 

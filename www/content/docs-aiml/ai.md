@@ -47,6 +47,8 @@ description: >
 
 - **Learn Robotics**
   - General Advice: [Quora](https://www.quora.com/What-are-the-best-online-courses-to-learn-robotics)
+  - The open online robotics education resource ([web](https://robotacademy.net.au/))
+
 
 - **Simulation**
   - [Wikipedia](https://en.wikipedia.org/wiki/Robotics_simulator)
