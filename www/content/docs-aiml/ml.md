@@ -61,6 +61,10 @@ description: >
   - Classical Time Series Forecasting Methods in Python ([blogPost](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/))
   - Time series in python ([blogPost](https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a))
   - Matrix Profile ([link](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html))
+  - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+  - [Principles of Econometrics with  R](https://bookdown.org/ccolonescu/RPoE4/)
+  - [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1)
+
 
 * * *
 
