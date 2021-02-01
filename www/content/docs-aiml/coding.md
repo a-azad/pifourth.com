@@ -62,7 +62,6 @@ description: >
 - [Visualising Data Structures & Algorithms](https://visualgo.net)
 - [Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 - MIT: Data Structure and Algorithm ([youtube](https://www.youtube.com/playlist?list=PLxZdKEtmy3GRhETjatYq9v3O8VVt3YrNb))
-
 - PYTHON
   - [Python for Algorithms](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
   - [Problem Solving in Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
