@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/ali/Desktop/Repos/pifourth.com/www",
+	"sourceRoot": "C:/Users/Ali/Desktop/codes/pifourth.com/www",
 	"sources": [
 		"themes/compose/assets/sass/main.sass",
 		"themes/compose/assets/sass/_variables.sass",
