@@ -38,6 +38,7 @@ description: >
 
 - **Resources**
   - Ian Goodfellow et al.: [Deep Learning](https://www.deeplearningbook.org/)
+  - [Dive into Deep Learning](https://d2l.ai/)
   - Michael Nielsen: NN & DL ([html-book](http://neuralnetworksanddeeplearning.com/))
   - Deep Learning with PyTorch, ([web](https://pytorch.org/deep-learning-with-pytorch))
 
@@ -50,6 +51,17 @@ description: >
   - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
   - Advanced Deep Learning for Computer Vision - Technical University Munich ([youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
   - )
+
+
+* * *
+
+## **Transformers**
+
+- [Transformers: An introduction and catalog (blog post)](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
+- [How Do Vision Transformers Work?](https://paperswithcode.com/paper/how-do-vision-transformers-work-1)
+- [Multi-Headed Attention (MHA), intro and pytorch code](https://nn.labml.ai/transformers/mha.html)
+
+
 
 
 * * *

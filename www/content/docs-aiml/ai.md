@@ -39,6 +39,7 @@ description: >
 
 - **Lectures**
   - UC Berkely: [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
+  - Stanford: [CS223A - Introduction to Robotics](https://see.stanford.edu/Course/CS223A)
 
 - **Modern Robotics Package**
   - Modern Robotics: Mechanics, Planning, and Control, Lynch & Park ([web](http://hades.mech.northwestern.edu/index.php/Modern_Robotics))

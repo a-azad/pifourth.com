@@ -57,6 +57,7 @@ description: >
 
 ### Algorithm & Data Structure
 
+- [Super Study Guide by Amidi's](https://superstudy.guide/)
 - [Algorithms Book](https://algs4.cs.princeton.edu/home/)
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [Visualising Data Structures & Algorithms](https://visualgo.net)
