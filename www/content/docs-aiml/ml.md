@@ -49,8 +49,7 @@ description: >
 - **Lectures**
   - Basic computer vision: The Ancient Secrets of Computer Vision ([youtube](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p))
   - Stanford Convolutional Neural Networks for Visual Recognition ([youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)), ([web](http://vision.stanford.edu/teaching/cs231n/))
-  - Advanced Deep Learning for Computer Vision - Technical University Munich ([youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
-  - )
+  - Advanced Deep Learning for Computer Vision - Technical University Munich ([youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39))
 
 
 * * *
@@ -93,4 +92,4 @@ description: >
 
 ## **Interview**
   - "Awesome" Data Science Inteview Resources ([github](https://github.com/alexeygrigorev/data-science-interviews/))
-  - Machine Learning Interviews Book, Chip Huyen ([github](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf))
+  - Machine Learning Interviews Book, Chip Huyen ([github](https://github.com/chiphuyen/machine-learning-systems-design))
