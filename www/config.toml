@@ -14,10 +14,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 1
     url = "docs-aiml/"
 
-[[menu.main]]
-    name = "BLOG"
-    weight = 2
-    url = "docs-blog/"
+# [[menu.main]]
+#    name = "BLOG"
+#    weight = 2
+#    url = "docs-blog/"
 
 # [[menu.main]]
 #     name = "alaki"
