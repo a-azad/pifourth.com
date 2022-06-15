@@ -21,6 +21,7 @@ description: >
   - Andriy Burkov. The Hundred Page Machine Learning ([web](http://themlbook.com/))
   - Mehryar Mohri, Foundations of ML ([web](https://cs.nyu.edu/~mohri/mlbook/))
   - Understanding Machine Learning: From Theory to Algorithms ([ebook](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/))
+  - Patterns, Predictions and Actions ([ebook](https://mlstory.org))
   - "Awsome" Machine Learning resouces ([github](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md))
 
 * * *

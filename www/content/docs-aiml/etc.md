@@ -5,7 +5,7 @@ description: >
   This is how the shortcodes would look like in action
 ---
 
-### Conferencs
+### Conferencs/Journals
 
 - [NeurIPS](https://nips.cc/): Conference on Neural Information Processing Systems
 - [ICLR](https://iclr.cc/): International Conference on Learning Representations
@@ -22,9 +22,6 @@ description: >
   - IRC —  International Conference on Robotic Computing
   - IROS — Intelligent Robots and Systems
   - [More ...](https://www.ieee-ras.org/conferences-workshops)
-
-### Journals
-
 - JAIR: Journal of Artificial Intelligence Research
 
 ### Open Access Publications
@@ -58,7 +55,7 @@ description: >
 - Stat Trek ([book](https://stattrek.com/))
 - Learning Statistics on Youtube ([link](https://www.r-bloggers.com/learning-statistics-on-youtube/))
 - Hypothesis Testing ([youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAWG_uiz9pQFkZJC8-pO-4H))
-- Intobooks ([link](https://www.openintro.org/))
+- Introbooks ([link](https://www.openintro.org/))
 - Probability ([onlineBook](http://theanalysisofdata.com/probability/))
 - A/B Testing ([guideline](https://hookedondata.org/guidelines-for-ab-testing/))
 - Papers
