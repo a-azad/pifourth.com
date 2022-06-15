@@ -30,6 +30,16 @@ description: >
 - Find peer-reviewed research ([semanticscholar](https://www.semanticscholar.org/))
 - Fair and useful benchmarks for ML ([MLPerf](https://mlperf.org/))
 
+
+### Handy Stuff
+
+- [format](https://pyformat.info/)
+- [strftime directives](https://strftime.org/)
+- [C# to Python](https://www.slideshare.net/TessFerrandez/presentations)
+- Color [Brewer](http://colorbrewer2.org/)
+- [Online Regex Tester](https://regex101.com/)
+
+
 ### Linux
 
 - [Linux](http://www.ee.surrey.ac.uk/Teaching/Unix/): UNIX Tutorial for Beginners
