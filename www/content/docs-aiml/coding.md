@@ -26,7 +26,7 @@ description: >
 - [BigO Cheat Sheet](https://www.bigocheatsheet.com/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - PYTHON
-  - [Python for Algorithms](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
+  - [Python for Algorithms (JosePortilla)](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
   - [Problem Solving in Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
   - [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
   - [Python Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/python_data_structure/index.htm)
