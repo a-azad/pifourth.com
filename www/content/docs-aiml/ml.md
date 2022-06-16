@@ -55,13 +55,19 @@ description: >
 
 * * *
 
-## **Transformers**
+## **Natural Language Processing**
 
-- [Transformers: An introduction and catalog (blog post)](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
-- [How Do Vision Transformers Work?](https://paperswithcode.com/paper/how-do-vision-transformers-work-1)
-- [Multi-Headed Attention (MHA), intro and pytorch code](https://nn.labml.ai/transformers/mha.html)
+- **Lectures**
+  - Stanford CS224N: Natural Language Processing with Deep Learning ([web](https://web.stanford.edu/class/cs224n/)), ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
 
+- **Transformers**
 
+  - [Transformers: An introduction and catalog (blog post)](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
+  - [How Do Vision Transformers Work?](https://paperswithcode.com/paper/how-do-vision-transformers-work-1)
+  - [Multi-Headed Attention (MHA), intro and pytorch code](https://nn.labml.ai/transformers/mha.html)
+
+- **Resources**
+  - "Awsome" NLP Books etc. ([github](https://github.com/keon/awesome-nlp))
 
 
 * * *
@@ -78,19 +84,11 @@ description: >
   - [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1)
 
 
-* * *
-
-## **Natural Language Processing**
-
-- **Lectures**
-  - Stanford CS224N: Natural Language Processing with Deep Learning ([web](https://web.stanford.edu/class/cs224n/)), ([youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))
-
-- **Resources**
-  - "Awsome" NLP Books etc. ([github](https://github.com/keon/awesome-nlp))
-  - **Tuitorial** on Kaggle by Hugging Face ([notebooks](https://www.kaggle.com/funtowiczmo/notebooks)) 
 
 * * *
 
 ## **Interview**
   - "Awesome" Data Science Inteview Resources ([github](https://github.com/alexeygrigorev/data-science-interviews/))
   - Machine Learning Interviews Book, Chip Huyen ([github](https://github.com/chiphuyen/machine-learning-systems-design))
+
+
